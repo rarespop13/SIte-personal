@@ -384,8 +384,6 @@ button:hover{
 }
 
 
-
-
     #ctc {
         width: 90%;
         height: 2px;
@@ -450,7 +448,7 @@ button:hover{
 
 #ctc2{
     margin-left: -15%;
-    margin-top: 110%;
+    margin-top: 25%;
     width: 150%;
     height: 2px;
     border: 0;
