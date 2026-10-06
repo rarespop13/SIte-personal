@@ -391,15 +391,13 @@ button:hover{
         margin-left: 5%;
         box-sizing: border-box;
 	}
-#ctc:hover {
-    background: var(--info);
-}
+
 #contact{
     color: var(--bara);
     font-size: 75px;
 }
 .contact{
-    margin-top: 25%;
+    margin-top: 75%;
 }
 #email{
     color: var(--text);
@@ -446,36 +444,7 @@ button:hover{
 
 
 
-#ctc2{
-    margin-left: -15%;
-    width: 235%;
-    height: 2px;
-    border: 0;
-    background-color: var(--primary);
-    border-radius: 999px;
-    transition: background 0.1s ease;
-    border-radius: 999px;
-}
-.foot{
-    display: flex;
-    justify-content: left;
-    margin-bottom: 5%;
-}
-#st{
-    color: var(--primary);
-    margin-left: -10%;
-}
-#st p{
-    width: 100px;
-}
-#dr{
-    color: var(--primary);
-    margin-left: 185%;
-    text-align: center;
-}
-#dr p{
-    width: 150px;
-}
+
 
 
 
