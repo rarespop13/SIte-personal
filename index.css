@@ -388,12 +388,13 @@ button:hover{
 #ctc{
     margin-left: -15%;
     margin-top: 110%;
-    width: 235%;
+    width: 80%%;
     height: 2px;
     border: 0;
     background-color: var(--primary);
     transition: background 0.1s ease;
     border-radius: 999px;
+    box-sizing: border-box;
 }
 #ctc:hover {
     background: var(--info);
@@ -452,13 +453,13 @@ button:hover{
 
 #ctc2{
     margin-left: -15%;
-    width: 235%;
+    width: 80%;
     height: 2px;
     border: 0;
     background-color: var(--primary);
     border-radius: 999px;
     transition: background 0.1s ease;
-    border-radius: 999px;
+	box-sizing: border-box;
 }
 .foot{
     display: flex;
@@ -474,8 +475,8 @@ button:hover{
 }
 #dr{
     color: var(--primary);
-    margin-left: 185%;
-    text-align: center;
+    margin-left: 0;
+    text-align: right;
 }
 #dr p{
     width: 150px;
