@@ -304,7 +304,7 @@ button:hover{
 .boxes{
     display: flex;
     position: absolute;
-	margin-bottom: 30%;
+	margin-bottom: 300px
 }
 #proj1{
     width: 500px;
@@ -398,7 +398,7 @@ button:hover{
     font-size: 75px;
 }
 .contact{
-    margin-top: 75%;
+    margin-top: 400px;
 }
 #email{
     color: var(--text);
