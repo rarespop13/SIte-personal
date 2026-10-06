@@ -304,6 +304,7 @@ button:hover{
 .boxes{
     display: flex;
     position: absolute;
+	margin-bottom: 30%;
 }
 #proj1{
     width: 500px;
