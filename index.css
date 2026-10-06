@@ -168,7 +168,7 @@ button:hover{
     position: absolute;
     left: 22%;
     height: 100%;
-	width: 80%;
+	width: 90%;
     padding: 0%;
 }
 
@@ -389,7 +389,7 @@ button:hover{
 #ctc{
     margin-left: -15%;
     margin-top: 110%;
-    width: 70%;
+    width: 80%;
     height: 2px;
     border: 0;
     background-color: var(--primary);
@@ -453,7 +453,7 @@ button:hover{
 
 #ctc2{
     margin-left: -15%;
-    width: 70%;
+    width: 80%;
     height: 2px;
     border: 0;
     background-color: var(--primary);
