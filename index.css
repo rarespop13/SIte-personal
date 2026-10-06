@@ -448,14 +448,13 @@ button:hover{
 
 #ctc2{
     margin-left: -15%;
-    margin-top: 25%;
-    width: 150%;
+    width: 235%;
     height: 2px;
     border: 0;
     background-color: var(--primary);
+    border-radius: 999px;
     transition: background 0.1s ease;
     border-radius: 999px;
-    box-sizing: border-box;
 }
 .foot{
     display: flex;
@@ -470,39 +469,9 @@ button:hover{
     width: 100px;
 }
 #dr{
-    #ctc2 {
-        width: 90%;
-        height: 2px;
-        margin-top: 20%;
-        margin-left: -10%%;
-        box-sizing: border-box;
-    }
-
-    .foot {
-        width: 90%;
-        margin-top: 25px;
-        margin-left: 5%;
-        display: flex;
-        justify-content: space-between;
-        align-items: center;
-    }
-    #st {
-        color: var(--primary);
-        margin: 0;
-    }
-    #st p {
-        width: auto;
-        margin: 0;
-    }
-    #dr {
-        color: var(--primary);
-        margin: 0;
-        text-align: right;
-    }
-    #dr p {
-        width: auto;
-        margin: 0;
-    }
+    color: var(--primary);
+    margin-left: 185%;
+    text-align: center;
 }
 #dr p{
     width: 150px;
