@@ -385,15 +385,14 @@ button:hover{
 
 
 
-#ctc{
+
     #ctc {
         width: 90%;
         height: 2px;
         margin-top: 20%;
         margin-left: 5%;
         box-sizing: border-box;
-    }
-}
+	}
 #ctc:hover {
     background: var(--info);
 }
@@ -477,7 +476,7 @@ button:hover{
         width: 90%;
         height: 2px;
         margin-top: 20%;
-        margin-left: 5%;
+        margin-left: -10%%;
         box-sizing: border-box;
     }
 
