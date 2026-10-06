@@ -386,15 +386,13 @@ button:hover{
 
 
 #ctc{
-    margin-left: -15%;
-    margin-top: 110%;
-    width: 100%;
-    height: 2px;
-    border: 0;
-    background-color: var(--primary);
-    transition: background 0.1s ease;
-    border-radius: 999px;
-    box-sizing: border-box;
+    #ctc {
+        width: 90%;
+        height: 2px;
+        margin-top: 20%;
+        margin-left: 5%;
+        box-sizing: border-box;
+    }
 }
 #ctc:hover {
     background: var(--info);
@@ -475,9 +473,39 @@ button:hover{
     width: 100px;
 }
 #dr{
-    color: var(--primary);
-    margin-left: 200%;
-    text-align: right;
+    #ctc2 {
+        width: 90%;
+        height: 2px;
+        margin-top: 20%;
+        margin-left: 5%;
+        box-sizing: border-box;
+    }
+
+    .foot {
+        width: 90%;
+        margin-top: 25px;
+        margin-left: 5%;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+    }
+    #st {
+        color: var(--primary);
+        margin: 0;
+    }
+    #st p {
+        width: auto;
+        margin: 0;
+    }
+    #dr {
+        color: var(--primary);
+        margin: 0;
+        text-align: right;
+    }
+    #dr p {
+        width: auto;
+        margin: 0;
+    }
 }
 #dr p{
     width: 150px;
