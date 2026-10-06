@@ -454,7 +454,7 @@ button:hover{
 #ctc2{
     margin-left: -15%;
     margin-top: 110%;
-    width: 100%;
+    width: 150%;
     height: 2px;
     border: 0;
     background-color: var(--primary);
@@ -476,7 +476,7 @@ button:hover{
 }
 #dr{
     color: var(--primary);
-    margin-left: 0;
+    margin-left: 200%;
     text-align: right;
 }
 #dr p{
