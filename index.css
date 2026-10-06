@@ -168,6 +168,7 @@ button:hover{
     position: absolute;
     left: 22%;
     height: 100%;
+	width: 90%;
     padding: 0%;
 }
 
